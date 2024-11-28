@@ -21,12 +21,13 @@ Alumni Directory and Database Integration : Maintain an up-to-date alumni direct
 
 
 ## Proposed Solution / Architecture Diagram
-![WhatsApp Image 2024-11-28 at 18 21 41_f7db5572](https://github.com/user-attachments/assets/ee08a809-145a-4082-b225-630024fbbca0)
+
+![WhatsApp Image 2024-11-28 at 18 21 41_14334c00](https://github.com/user-attachments/assets/f5b9a985-4fa1-4d9a-b3dd-a8a2f0a3864b)
 
 
 ## Use Cases
 
-![WhatsApp Image 2024-11-28 at 18 21 41_f7db5572](https://github.com/user-attachments/assets/dbff1f4b-38e6-425c-8b95-f315739c1c0c)
+![WhatsApp Image 2024-11-28 at 18 21 43_216e0cbd](https://github.com/user-attachments/assets/024494e7-9992-4d1b-b7ac-7080678ef573)
 
 ## Technology Stack
 Use cases(web)
